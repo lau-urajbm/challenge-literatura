@@ -6,12 +6,12 @@
 <h2 id="Características">Características</h2>
 <p>El programa posee el siguiente menú interactivo el cual permite ver las opciones disponibles: </p>
 <ol>
-  <li>1- Buscar y registrar Libro</li>
-  <li>2- Listar libros registrados</li>
-  <li>3- Listar autores registrados</li>
-  <li>4- Listar autores vivos en un determinado año</li>
-  <li>5- Listar libros por idioma</li>
-  <li>6- Salir</li>
+  <li>Buscar y registrar Libro</li>
+  <li>Listar libros registrados</li>
+  <li>Listar autores registrados</li>
+  <li>Listar autores vivos en un determinado año</li>
+  <li>Listar libros por idioma</li>
+  <li>Salir</li>
 </ol>
 <h2>Funcionamiento</h2>
 <p>Usar el catálogo de libros es muy sencillo. Su funcionamiento basicamente es como primera instancia traer el libro solicitado al marcar 
